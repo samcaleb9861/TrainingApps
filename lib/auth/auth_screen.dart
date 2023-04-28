@@ -13,7 +13,11 @@ class _AuthScreenState extends State<AuthScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
+<<<<<<< Updated upstream
           title: Text('Authentication'),
+=======
+          title: Text('Authentication Screen'),
+>>>>>>> Stashed changes
           centerTitle: true,
           backgroundColor: Colors.purpleAccent,
         ),
