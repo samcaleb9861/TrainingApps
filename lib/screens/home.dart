@@ -102,6 +102,7 @@ class _HomeState extends State<Home> {
                                             .add_jm()
                                             .format(time)))
                                   ]),
+                                  // delete function 
                               Container(
                                 child: IconButton(
                                   icon: Icon(Icons.delete),
